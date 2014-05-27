@@ -1,0 +1,30 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+#block-node-recent ul, #block-node-recent li {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left:5px;
+}
+.block ul{
+	margin-left:20px;
+	padding: 0;
+}
+ .tab_nodes {
+    background-color: #FF8A00;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 11px;
+    line-height: 20px;
+    margin-right: 8px;
+    padding: 0 2px;
+}
+
+.submitted{
+	margin-bottom:0;
+}
+.tags {
+	margin-bottom:1em;
+}
